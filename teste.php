@@ -1,0 +1,5 @@
+<?php
+$teste = "teste";
+$teste2 = "teste2";
+?>
+
